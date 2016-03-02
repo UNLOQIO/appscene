@@ -1,0 +1,38 @@
+{
+  "name": "appscene",
+  "author": "PrearlVentures",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "1.4.x",
+    "request": "2.x",
+    "bluebird": "3.x"
+  },
+  "files": [
+    "lib/",
+    "index.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "description": "API Client for appscene.io",
+  "main": "index.js",
+  "directories": {
+    "directories.lib": "lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UNLOQIO/appscene"
+  },
+  "keywords": [
+    "framework",
+    "appscene",
+    "react-native-build",
+    "react-native-release",
+    "build"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UNLOQIO/appscene/issues"
+  },
+  "homepage": "https://github.com/UNLOQIO/appscene"
+}

@@ -1,0 +1,10 @@
+Thumbs.db
+*.swp
+.idea
+.git
+.npm
+*.log
+*.pid
+*.gz
+node_modules
+example
