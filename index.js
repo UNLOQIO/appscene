@@ -11,4 +11,7 @@ module.exports = function init(token, _apiUrl) {
 };
 
 /* Export the connect middleware. */
-module.exports.connectWebhook = connect;
+module.exports.webhook = connect.webhook;
+
+/* Exports the payload signature verification */
+module.exports.verifySignature = connect.verify;
