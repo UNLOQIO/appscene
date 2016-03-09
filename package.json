@@ -1,7 +1,7 @@
 {
   "name": "appscene",
   "author": "UNLOQIO",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "async": "1.4.x",
     "request": "2.x",
